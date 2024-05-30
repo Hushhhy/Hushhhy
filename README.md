@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Carpentier Alexis</h1>
+<h1 align="center">Carpentier Alexis</h1>
 <h3 align="center">Hush please, i am still learning</h3>
 
 - 👨‍💻 All of my projects are available at **Comming soon...**
