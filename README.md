@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hushhhy&label=Profile%20views&color=0e75b6&style=flat" alt="hushhhy" /> </p>
 
-- 👨‍💻 All of my projects are available at **Work in progress...**
+- 👨‍💻 All of my projects are available at **/!\Comming soon.../!\**
 
 <img align="right" alt="op" width="400" src="https://i.pinimg.com/originals/2d/02/f1/2d02f1b440163529c321599a51cf4ef6.gif">
 
