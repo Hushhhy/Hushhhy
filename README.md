@@ -8,10 +8,10 @@
 </div>
 
 <h3 align="center">Connect with me:</h3>
-<div align="center" magin-bottom="15px">
+<p align="center" magin-bottom="15px">
     <a href="https://www.linkedin.com/in/alexis-carpentier-37b8a6189/" target="blank"><img margin="20px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-              generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexis carpentier" height="30" width="40" /></a>
     <a href="https://instagram.com/hushy.mov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"             alt="hushy.mov" height="30" width="40" /></a>
-</div>
+</p>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=hushhhy&locale=fr&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=2" height="150" alt="streak graph"  />
