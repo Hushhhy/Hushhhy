@@ -5,6 +5,8 @@
 
 - 👨‍💻 All of my projects are available at **Work in progress...**
 
+<img align="right" alt="op" width="400" src="2d02f1b440163529c321599a51cf4ef6.gif">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alexis carpentier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexis carpentier" height="30" width="40" /></a>
