@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carpentier Alexis</h1>
-<h3 align="center">42 student and Full stack developer</h3>
+<h3 align="center">Hush please, i am still learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hushhhy&label=Profile%20views&color=0e75b6&style=flat" alt="hushhhy" /> </p>
 
