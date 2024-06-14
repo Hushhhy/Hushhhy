@@ -64,13 +64,13 @@
 
 <p align="center">
   <a href="https://github.com/Hushhhy">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Hushy streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hushhhy&theme=radical&border=7F3FBF&background=0D1117" alt="Hushy streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Hushhhy">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="HUshy GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hushhhy&theme=radical" alt="Hushy GitHub Contribution"/>
   </a>
 </p>
 
