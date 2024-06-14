@@ -50,7 +50,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F594827063253544381%2F&psig=AOvVaw3TRLrRFDGeEg7PIVshjnZI&ust=1718446573591000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIj6-NTT2oYDFQAAAAAdAAAAABAE" alt="Coding gif" />
+ <img align="right" width="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RpZWlsZzRkM2toazc4NTZ4Z3g1ZnVsYTF3azVpdXBvcXh1YmxlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S4tAejXatVQwJhwZA1/giphy.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
