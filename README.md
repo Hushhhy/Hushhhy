@@ -32,11 +32,11 @@
 <!-- Section À Propos -->
 ## 🙋‍♂️ About Me
 
-<div>
+<p>
   - ✌️ &ensp;I love exploring new technologies and sharing knowledge with others.
   - ❤️ &ensp;Passionate about coding!
   - 📧 &ensp;Feel free to reach out at: hushydev@gmail.com
-</div>
+</p>
 
 ---
 
