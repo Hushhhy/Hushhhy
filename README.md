@@ -1,17 +1,3 @@
-<!--
-<h2 align="center">
-  Welcome to Hushy's World!
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fquick-saves-in-2024--891853532446152902%2F&psig=AOvVaw3Eo8sLOvCpfYFCa_AWisdQ&ust=1718445890945000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDzuo_R2oYDFQAAAAAdAAAAABAv" width="28">
-</h2>
--->
-
-<!--
-<p align="center">
-  <a href="https://github.com/Hushhhy"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-
- -->
-
 <a href="https://komarev.com/ghpvc/?username=Hushhhy">
   <img align="right" src="https://komarev.com/ghpvc/?username=Hushhhy&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
