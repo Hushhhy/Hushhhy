@@ -33,8 +33,8 @@
 ## 🙋‍♂️ About Me
 
 <p>
-  - ✌️ &ensp;I love exploring new technologies and sharing knowledge with others.
-  - ❤️ &ensp;Passionate about coding!
+  - ✌️ &ensp;I love exploring new technologies and sharing knowledge with others.</br>
+  - ❤️ &ensp;Passionate about coding!</br>
   - 📧 &ensp;Feel free to reach out at: hushydev@gmail.com
 </p>
 
