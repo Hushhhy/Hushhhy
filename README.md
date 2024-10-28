@@ -36,7 +36,7 @@
 ---
 
 <!-- Mes projets -->
-## 🧑‍🎓 My 42 projects
+🧑‍🎓 My 42 projects
 ---
 ## Common Core Projects
 | Circle 0                      ✅ | Circle 1                    ✅ | Circle 2                   ✅ | Circle 3                      🛠️ | Circle 4                   ❌ | Circle 5                    ❌ | Circle 6                    ❌ |
