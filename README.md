@@ -37,3 +37,11 @@
 
 <!-- Mes projets -->
 ## 🧑‍🎓 My projects
+## Common Core Projects
+
+| Guide                     | Circle 0        | Circle 1           | Circle 2       | Circle 3           | Circle 4        | Circle 5         | Circle 6          |
+|---------------------------|-----------------|---------------------|-----------------|---------------------|------------------|-------------------|--------------------|
+| [Common Core Guide](https://github.com/username/core-guide) | [Libft](https://github.com/username/libft) | [Born2BeRoot](https://github.com/username/born2beroot) | [MiniTalk](https://github.com/username/minitalk) | [Philosophers](https://github.com/username/philosophers) | [NetPractice](https://github.com/username/netpractice) | [Inception](https://github.com/username/inception) | [Transcendence](https://github.com/username/transcendence) |
+| [Printf](https://github.com/username/ft_printf) | [So_Long](https://github.com/username/so_long) | [Minishell](https://github.com/username/minishell) | [Cub3D](https://github.com/username/cub3d) | [IRC](https://github.com/username/irc) |                    |                   |                    |
+| [Get_Next_Line](https://github.com/username/get_next_line) | [Push_Swap](https://github.com/username/push_swap) |                    | [C++ Modules](https://github.com/username/cpp_modules) |                    |                    |                   |                    |
+
