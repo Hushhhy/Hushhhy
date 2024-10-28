@@ -30,7 +30,7 @@
 <p>
   - ✌️ &ensp;I love exploring new technologies and sharing knowledge with others.</br>
   - ❤️ &ensp;Passionate about coding!</br>
-  - 📧 &ensp;Feel free to reach out at: hushydev@gmail.com
+  - 📧 &ensp;Feel free to reach out at: <a href="mailto:hushydev@gmail.com">hushydev@gmail.com</a>
 </p>
 
 ---
