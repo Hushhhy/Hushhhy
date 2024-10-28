@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <samp>🌍 42 student based in <b>France</b> • Passionate about code and technology</samp>
+  <samp>🌍 42 student based in <b>Paris</b> • Passionate about code and technology</samp>
 </p>
 
 <!-- Liens Sociaux -->
