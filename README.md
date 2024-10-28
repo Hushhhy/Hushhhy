@@ -20,8 +20,9 @@
   </a>
 </p>
 
+<br>
 <img align="right" width="100%" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RpZWlsZzRkM2toazc4NTZ4Z3g1ZnVsYTF3azVpdXBvcXh1YmxlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S4tAejXatVQwJhwZA1/giphy.gif" alt="Coding gif" />
-
+<br>
 ---
 
 <!-- Section À Propos -->
