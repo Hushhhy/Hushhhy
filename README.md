@@ -36,11 +36,9 @@
 ---
 
 <!-- Mes projets -->
-🧑‍🎓 My 42 projects
+## 🧑‍🎓 My 42 projects
 
----
-
-## Common Core Projects
+<h1>Common Core Projects</h1>
 | Circle 0                      ✅ | Circle 1                    ✅ | Circle 2                   ✅ | Circle 3                      🛠️ | Circle 4                   ❌ | Circle 5                    ❌ | Circle 6                    ❌ |
 |----------------------------------|--------------------------------|-------------------------------|----------------------------------|---------------------------------|--------------------------------|--------------------------------|
 | [Libft](https://github.com/Hushhhy/libft)             | [Printf](https://github.com/Hushhhy/ft_printf)              | [MiniTalk](https://github.com/Hushhhy/minitalk)          | [Philosophers](https://github.com/Hushhhy/philosophers)          | [NetPractice](https://github.com/Hushhhy/netpractice)        | [Inception](https://github.com/Hushhhy/inception)       | [Transcendence](https://github.com/Hushhhy/transcendence) |
