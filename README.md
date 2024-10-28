@@ -1,8 +1,3 @@
-<!-- Profil Visiteurs -->
-<a href="https://komarev.com/ghpvc/?username=Hushhhy">
-  <img align="right" src="https://komarev.com/ghpvc/?username=Hushhhy&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
 <!-- Intro  -->
 <h3 align="center">
   <samp>&gt; Hello World! I'm <b><a href="https://yourwebsite.com" target="_blank">Hushy</a></b> 👋</samp>
