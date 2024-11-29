@@ -38,7 +38,7 @@
 <!-- Mes projets -->
 ## 🧑‍🎓 My 42 projects
 
-| Circle 0                      ✅ | Circle 1                    ✅ | Circle 2                   ✅ | Circle 3                      🛠️ | Circle 4                   ❌ | Circle 5                    ❌ | Circle 6                    ❌ |
+| Circle 0                      ✅ | Circle 1                    ✅ | Circle 2                   ✅ | Circle 3                      ✅ | Circle 4                   🛠️ | Circle 5                    ❌ | Circle 6                    ❌ |
 |----------------------------------|--------------------------------|-------------------------------|----------------------------------|---------------------------------|--------------------------------|--------------------------------|
 | [Libft](https://github.com/Hushhhy/libft)             | [Printf](https://github.com/Hushhhy/ft_printf)              | [MiniTalk](https://github.com/Hushhhy/minitalk)          | [Philosophers](https://github.com/Hushhhy/philosophers)          | [Cub3D](https://github.com/Hushhhy/cub3d)     | [Inception](https://github.com/Hushhhy/inception)       | [Transcendence](https://github.com/Hushhhy/transcendence) |
 |                                                       | [Get_Next_Line](https://github.com/Hushhhy/get_next_line)   | [So_Long](https://github.com/Hushhhy/so_long)              | [Minishell](https://github.com/Hushhhy/minishell)       |  [C++ Modules](https://github.com/Hushhhy/cpp_modules) | [Webserv](https://github.com/Hushhhy/web_serv)                       |                                |                                | 
