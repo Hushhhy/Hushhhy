@@ -28,7 +28,7 @@
 ## 🙋‍♂️ About Me
 
 <p>
-  - ✌️ &ensp;I love exploring new technologies and to share knowledge.</br>
+  - ✌️ &ensp;I love exploring new technologies and sharing knowledge.</br>
   - ❤️ &ensp;Passionate about coding!</br>
   - 📧 &ensp;Feel free to reach me out at <a href="mailto:hushydev@gmail.com">my email adress</a>
 </p>
