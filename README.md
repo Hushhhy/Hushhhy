@@ -47,20 +47,20 @@
 ## 💼 Road to Freelance
 
 ### 🌐 Full-Stack Development  
-![JavaScript]![50%](https://progress-bar.xyz/50)
-![TypeScript](https://progress-bar.dev/50/?title=TypeScript)  
-![React.js](https://progress-bar.dev/60/?title=React.js)  
-![Next.js](https://progress-bar.dev/40/?title=Next.js)  
-![Node.js](https://progress-bar.dev/55/?title=Node.js)  
-![Express.js](https://progress-bar.dev/60/?title=Express.js)  
-![NestJS](https://progress-bar.dev/30/?title=NestJS)  
-![PostgreSQL](https://progress-bar.dev/50/?title=PostgreSQL)  
-![MongoDB](https://progress-bar.dev/50/?title=MongoDB)  
-![Docker](https://progress-bar.dev/30/?title=Docker)  
-![AWS](https://progress-bar.dev/20/?title=AWS)  
+![JavaScript](https://progress-bar.xyz/0)
+![TypeScript](https://progress-bar.dev/0/?title=TypeScript)  
+![React.js](https://progress-bar.dev/0/?title=React.js)  
+![Next.js](https://progress-bar.dev/0/?title=Next.js)  
+![Node.js](https://progress-bar.dev/0/?title=Node.js)  
+![Express.js](https://progress-bar.dev/0/?title=Express.js)  
+![NestJS](https://progress-bar.dev/0/?title=NestJS)  
+![PostgreSQL](https://progress-bar.dev/0/?title=PostgreSQL)  
+![MongoDB](https://progress-bar.dev/0/?title=MongoDB)  
+![Docker](https://progress-bar.dev/0/?title=Docker)  
+![AWS](https://progress-bar.dev/0/?title=AWS)  
 
 ### 🤖 AI & Machine Learning  
-![Python](https://progress-bar.dev/65/?title=Python)  
+![Python](https://progress-bar.dev/0/?title=Python)  
 ![TensorFlow](https://progress-bar.dev/40/?title=TensorFlow)  
 ![PyTorch](https://progress-bar.dev/30/?title=PyTorch)  
 ![Scikit-learn](https://progress-bar.dev/45/?title=Scikit-learn)  
