@@ -47,7 +47,7 @@
 ## 💼 Road to Freelance
 
 ### 🌐 Full-Stack Development  
-![JavaScript](https://progress-bar.dev/70/?title=JavaScript)  
+![JavaScript]![50%](https://progress-bar.xyz/50) 
 ![TypeScript](https://progress-bar.dev/50/?title=TypeScript)  
 ![React.js](https://progress-bar.dev/60/?title=React.js)  
 ![Next.js](https://progress-bar.dev/40/?title=Next.js)  
