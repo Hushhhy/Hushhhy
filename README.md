@@ -43,32 +43,3 @@
 | [Libft](https://github.com/Hushhhy/libft)             | [Printf](https://github.com/Hushhhy/ft_printf)              | [MiniTalk](https://github.com/Hushhhy/minitalk)          | [Philosophers](https://github.com/Hushhhy/philosophers)          | [Cub3D](https://github.com/Hushhhy/cub3d)     |     [Webserv](https://github.com/Hushhhy/web_serv)            | [Transcendence](https://github.com/Hushhhy/transcendence) |
 |                                                       | [Get_Next_Line](https://github.com/Hushhhy/get_next_line)   | [So_Long](https://github.com/Hushhhy/so_long)              | [Minishell](https://github.com/Hushhhy/minishell)       |  [C++ Modules](https://github.com/Hushhhy/cpp_modules) |    [C++ Modules](https://github.com/Hushhhy/cpp_modules)                   |                                |                                | 
 |                                                       |                                         | [Push_Swap](https://github.com/Hushhhy/push_swap)         |                           |                                         |                                 |            |                                |
-
-## 💼 Road to Freelance
-
-### 🌐 Full-Stack Development  
-![JavaScript](https://progress-bar.xyz/0)
-![TypeScript](https://progress-bar.dev/0/?title=TypeScript)  
-![React.js](https://progress-bar.dev/0/?title=React.js)  
-![Next.js](https://progress-bar.dev/0/?title=Next.js)  
-![Node.js](https://progress-bar.dev/0/?title=Node.js)  
-![Express.js](https://progress-bar.dev/0/?title=Express.js)  
-![NestJS](https://progress-bar.dev/0/?title=NestJS)  
-![PostgreSQL](https://progress-bar.dev/0/?title=PostgreSQL)  
-![MongoDB](https://progress-bar.dev/0/?title=MongoDB)  
-![Docker](https://progress-bar.dev/0/?title=Docker)  
-![AWS](https://progress-bar.dev/0/?title=AWS)  
-
-### 🤖 AI & Machine Learning  
-![Python](https://progress-bar.dev/0/?title=Python)  
-![TensorFlow](https://progress-bar.dev/40/?title=TensorFlow)  
-![PyTorch](https://progress-bar.dev/30/?title=PyTorch)  
-![Scikit-learn](https://progress-bar.dev/45/?title=Scikit-learn)  
-![FastAPI](https://progress-bar.dev/50/?title=FastAPI)  
-![Hugging Face](https://progress-bar.dev/30/?title=HuggingFace)  
-![LangChain](https://progress-bar.dev/25/?title=LangChain)  
-
-### 🛠️ DevOps & Tools  
-![Git & GitHub](https://progress-bar.dev/80/?title=Git/GitHub)  
-![CI/CD](https://progress-bar.dev/40/?title=CI/CD)  
-![Kubernetes](https://progress-bar.dev/20/?title=Kubernetes) 
