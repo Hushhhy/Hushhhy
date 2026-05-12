@@ -35,6 +35,19 @@
 
 ---
 
+## 📊 Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hushhhy&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hushhhy&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hushhhy&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
 <!-- Mes projets -->
 ## 🧑‍🎓 My 42 projects
 
