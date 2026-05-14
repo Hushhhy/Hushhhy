@@ -18,7 +18,8 @@ I'm a software engineering student at 42 Paris, building full stack projects tha
  
 **Frameworks & Tools**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React.js](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-20232A?style=flat-square&logo=next.js&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
  
@@ -27,7 +28,7 @@ I'm a software engineering student at 42 Paris, building full stack projects tha
 ## 🚀 Featured Projects
  
 ### [ft_transcendence](https://github.com/Hushhhy/ft_transcendence)
-> Full stack web app — real-time multiplayer Pong with authentication, chat, and user management.  
+> Full stack web app — real-time multiplayer Blackjack with authentication, stats, and user management.  
 > **Stack:** TypeScript · Node.js · WebSockets · PostgreSQL · Docker
  
 ### [Minishell](https://github.com/Hushhhy/minishell)
@@ -38,7 +39,7 @@ I'm a software engineering student at 42 Paris, building full stack projects tha
  
 ## 📌 Currently
  
-- 🎓 Finishing the **42 Paris Common Core**
+- 🎓 Finished the **42 Paris Common Core**
 - 🔨 Building a **personal portfolio** (coming soon)
 - 🤖 Working on a **42 specialisation project** with AI integration
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/alexis-carpentier-37b8a6189/)
