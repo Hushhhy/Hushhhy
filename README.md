@@ -62,7 +62,7 @@ const hushy = {
 ### 🏓 [ft_transcendence](https://github.com/Hushhhy/42-common-core/tree/main/transcendance)
 > Final project of the 42 common core — a full-stack multiplayer web app
 
-- Real-time **Pong** game with WebSockets
+- Real-time **Blackjack** game with WebSockets
 - Complete **authentication** system (2FA, OAuth)
 - Built with **TypeScript**, **React**, **NestJS**, **PostgreSQL** & **Docker**
 - Full **responsive** UI with TailwindCSS
