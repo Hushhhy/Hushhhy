@@ -81,13 +81,6 @@ const hushy = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hushhhy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hushhhy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6"/>
-
-</div>
-
-<div align="center">
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Hushhhy&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa)
 
 </div>
