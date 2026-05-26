@@ -89,8 +89,9 @@ const hushy = {
 
 ## 🎯 Currently
 
-- 📚 Finishing the **42 common core**
-- 🌐 Diving deeper into **React** & **TypeScript**
+- 🎓​ Finished the **42 common core**
+- 📚 Pursuing **RNCP Level 6 Certification**
+- 🌐 Diving deeper into **Full stack development**
 - 🤖 Exploring **AI / LLM integrations** in web apps
 - 🔍 Open to **internship opportunities** — let's connect!
 
