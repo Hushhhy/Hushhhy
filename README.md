@@ -59,21 +59,21 @@ const hushy = {
 
 ## 🚀 Featured Projects
 
-### 🏓 [ft_transcendence](https://github.com/Hushhhy/42-common-core/tree/main/transcendance)
+### 🎰 [ft_transcendence](https://github.com/Hushhhy/ft_transcendence)
 > Final project of the 42 common core — a full-stack multiplayer web app
 
 - Real-time **Blackjack** game with WebSockets
 - Complete **authentication** system (2FA, OAuth)
-- Built with **TypeScript**, **React**, **NestJS**, **PostgreSQL** & **Docker**
+- Built with **TypeScript**, **React**, **ExpressJS**, **PostgreSQL** & **Docker**
 - Full **responsive** UI with TailwindCSS
 
-### 🐚 [minishell](https://github.com/Hushhhy/42-common-core/tree/main/Circle-3)
-> A Bash-like shell written in C from scratch
+### 🐳 [Inception](https://github.com/Hushhhy/inception#)
+> A Docker-based infrastructure deployed from scratch
 
-- Custom **lexer / parser / executor**
-- Support: pipes `|`, redirections `>`, `<`, `>>`, heredoc `<<`
-- Built-in commands: `cd`, `echo`, `env`, `export`, `unset`, `exit`
-- Full **signal handling** (Ctrl+C, Ctrl+D, Ctrl+\\)
+- Custom **multi-container** architecture using `docker-compose`
+- Services: `NGINX`, `WordPress`, `MariaDB` — each in its own container
+- Configured **TLS (SSL)**, volumes, and isolated Docker network
+- No pre-built images — everything built from custom `Dockerfiles`
 
 ---
 
