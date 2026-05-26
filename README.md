@@ -90,7 +90,7 @@ const hushy = {
 ## 🎯 Currently
 
 - 🎓​ Finished the **42 common core**
-- 📚 Pursuing **RNCP Level 6 Certification**
+- 📚 Pursuing **RNCP Level 6 Certification** (IT Solutions Designer and Developer)
 - 🌐 Diving deeper into **Full stack development**
 - 🤖 Exploring **AI / LLM integrations** in web apps
 - 🔍 Open to **internship opportunities** — let's connect!
