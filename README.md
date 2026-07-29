@@ -23,7 +23,7 @@ const hushy = {
   name:     "Alexis Carpentier",
   school:   "42 Paris",
   status:   "🔍 Actively looking for an internship",
-  goal:     "Full Stack Web · Web Mobile · AI",
+  goal:     "Full Stack Web · Web - Mobile · Data - AI",
   location: "Paris, France 🇫🇷",
   contact:  "linkedin.com/in/alexis-carpentier-37b8a6189",
 };
