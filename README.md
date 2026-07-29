@@ -95,7 +95,7 @@ const hushy = {
 - 📚 Pursuing **RNCP Level 6 Certification** (IT Solutions Designer and Developer)
 - 🌐 Diving deeper into **Full stack development**
 - 🤖 Exploring **AI / LLM integrations** in web apps
-- 🔍 Open to **internship opportunities** — let's connect!
+- 🔍 Open to **Apprentice opportunities** — let's connect!
 
 ---
 
