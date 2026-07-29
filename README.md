@@ -54,6 +54,7 @@ const hushy = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=cmake&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgreSQL-green?style=flat-square&logo=postgreSQL&logoColor=white)
 
 ---
 
